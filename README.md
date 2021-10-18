@@ -67,3 +67,7 @@ Off in web nya
 - All Friends
 - All Contributors
 - All Creator Bot
+
+
+## 'Deploy'
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/albin-av/Alphab0t8/)
